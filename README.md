@@ -1,3 +1,5 @@
+[![Gitpod ready-to-code](https://img.shields.io/badge/Gitpod-ready--to--code-blue?logo=gitpod)](https://gitpod.io/#https://github.com/J535D165/CoronaWatchNL)
+
 ![corona_artwork.jpg](corona_artwork.jpg)
 
 # Dataset: COVID-19 case counts in The Netherlands
